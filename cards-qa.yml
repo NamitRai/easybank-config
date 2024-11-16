@@ -1,9 +1,8 @@
-
 build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related qa APIs "
+  message: "Welcome to EazyBank cards related qa(changed) APIs "
   contactDetails:
     name: "Reine Rai - Product Owner"
     email: "aishwarya@eazybank.com"
